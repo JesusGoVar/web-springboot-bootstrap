@@ -7,7 +7,7 @@ Este proyecto de ejemplo es una web desarrollada con SpringBoot, Bootstrap y pla
 
 ----
 ## Herramientas utilizadas en el pipeline CD
-* Gitlab
+* Github
 * Jenkins
  * Build Pipeline Plugin
  * Git plugin
